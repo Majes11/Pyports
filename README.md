@@ -1,4 +1,4 @@
-# WordPress Scanner
+# WordPress +Port Scanner
 
 A simple Python tool for scanning WordPress websites for open ports and finding common WordPress paths.
 
@@ -43,18 +43,7 @@ python wordpress_scan.py -t example.com
 This project was developed by Maik Jeschke. Contact me at maik.jeschke0101[at]gmail.com for any questions or feedback.
 
 
-
-
-
-
-
-
-
-
-
-
-
-# WordPress Scanner
+# WordPress +Port Scanner
 
 Ein einfaches Python-Tool zum Scannen von WordPress-Websites auf offene Ports und zum Auffinden gängiger WordPress-Pfade.
 
